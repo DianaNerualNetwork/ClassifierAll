@@ -1,2 +1,2 @@
-# ClassifierAll
-A High-Efficient Research Development Toolkit for Image Classifier Based on Pytorch.
+# deepLearning-for-Learning
+深度学习cv入门培训
